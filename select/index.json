@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Money Trees (feat. Jay Rock)",
+  "base_artist": "Kendrick Lamar",
+  "createdAt": "2025-12-29T19:10:09.873419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Money Trees (feat. Jay Rock)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/01_Money_Trees_(feat._Jay_Rock)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Money Trees (feat. Jay Rock)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/02_Money_Trees_(feat._Jay_Rock)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Money Trees (feat. Jay Rock)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/03_Money_Trees_(feat._Jay_Rock)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - Money Trees (Feat. Jay Rock)",
+      "artist": "music",
+      "has_synced": true,
+      "path": "select/04_Kendrick_Lamar_-_Money_Trees_(Feat._Jay_Rock)_music.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Money Trees (feat. Jay Rock",
+      "artist": "Black Hippy",
+      "has_synced": true,
+      "path": "select/05_Money_Trees_(feat._Jay_Rock_Black_Hippy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Money Trees (feat. Jay Rock)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/06_Money_Trees_(feat._Jay_Rock)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - Money Trees (Feat. Jay Rock)",
+      "artist": "music",
+      "has_synced": true,
+      "path": "select/07_Kendrick_Lamar_-_Money_Trees_(Feat._Jay_Rock)_music.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - Money Trees (Feat. Jay Rock)",
+      "artist": "music",
+      "has_synced": true,
+      "path": "select/08_Kendrick_Lamar_-_Money_Trees_(Feat._Jay_Rock)_music.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Money Trees (feat. Jay Rock)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/09_Money_Trees_(feat._Jay_Rock)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Money Trees (feat. Jay Rock & Kendrick Lamar)",
+      "artist": "Black Hippy",
+      "has_synced": true,
+      "path": "select/10_Money_Trees_(feat._Jay_Rock_&_Kendrick_Lamar)_Black_Hippy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Money Trees feat. Jay Rock",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/11_Money_Trees_feat._Jay_Rock_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Money Trees (Feat. Jay Rock)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/12_Money_Trees_(Feat._Jay_Rock)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Money Trees (featuring Jay Rock)",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_01_Money_Trees_(featuring_Jay_Rock)_Kendrick_Lamar.txt"
+    }
+  ]
+}
